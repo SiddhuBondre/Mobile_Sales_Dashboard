@@ -19,3 +19,13 @@ The Mobile Sales Dashboard is a data-driven project designed to analyze and visu
 🛒 Customer Preferences – Analyze popular price ranges, features, and best-selling devices.
 
 📊 Interactive Dashboard – Filters for time, region, brand, and category.
+
+# 🛠️ Tech Stack
+
+Programming: Python (Pandas, NumPy)
+
+Visualization: Power BI / Tableau / Matplotlib / Seaborn / Plotly
+
+Data Storage: CSV / Excel / SQL Database
+
+Optional: Streamlit / Dash for web-based interactive dashboards
