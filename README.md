@@ -29,3 +29,13 @@ Visualization: Power BI / Tableau / Matplotlib / Seaborn / Plotly
 Data Storage: CSV / Excel / SQL Database
 
 Optional: Streamlit / Dash for web-based interactive dashboards
+
+# 📅 Future Improvements
+
+🔮 Add predictive models (e.g., forecasting next month’s sales).
+
+🏷️ Add sentiment analysis from customer reviews.
+
+📦 Add inventory tracking & supply chain analysis.
+
+📱 Build a mobile-friendly dashboard app.
